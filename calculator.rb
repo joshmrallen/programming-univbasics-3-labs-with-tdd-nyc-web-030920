@@ -1,4 +1,6 @@
 # Add your variables here
+first_number = 8
+second_number = 4
 
 def find_sum(first_number, second_number)
   sum = first_number + second_number
