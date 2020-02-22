@@ -6,6 +6,7 @@ difference = first_number - second_number
 product = first_number * second_number
 quotient = first_number / second_number
 
+=begin
 def find_sum(first_number, second_number)
   sum = first_number + second_number
   puts "The sum of #{first_number} and #{second_number} is #{sum}."
@@ -30,3 +31,5 @@ def find_quotient(first_number, second_number = 1)
     puts "The quotient of #{first_number} and #{second_number} is #{quotient}."
   end
 end
+
+=end
